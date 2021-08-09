@@ -22,4 +22,4 @@
 ![Morgan Wallen](https://bigloudmanagement.com/wp-content/themes/BLM/images/artist-MorganWallen.jpg) | ![Juice WRLD](https://is2-ssl.mzstatic.com/image/thumb/Features114/v4/82/c6/58/82c65817-0e59-147c-7655-2fbbd2bcb472/mzl.gwhtpegi.jpg/1024x1024cc.jpg) | ![@Polo G](https://rapwithus.com/wp-content/uploads/2021/06/194945950_1182056155594679_331634071626500347_n-1.jpg)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobRintjema&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobRintjema&theme=vision-friendly-dark)
