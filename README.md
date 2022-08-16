@@ -3,8 +3,9 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacobrintjema)
 [![](https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jrintjem@uwaterloo.ca)
 
-- 💼 I’m currently working at Uptake Canada as a Full-stack Developer
-- 🏫 In the Fall I will be entering 2B for Computer Engineering at the University of Waterloo
+- 🏫 In the Fall I will be entering 3B for Computer Engineering at the University of Waterloo
+- 🔍 I am currently looking for Software Engineering coop opportunities for Winter 2023 (Backend, Full-Stack)
+- 💼 I previously worked at Questrade as a Full-Stack Engineer
 - 🌱 I’m currently learning Docker & Kubernetes
 - 💬 Ask me about anything hockey, working out, or programming related
 
